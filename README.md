@@ -1,4 +1,4 @@
-# TRỢ LÝ AI CHO HỌC SINH LỚP 4
+# ỨNG DỤNG CÔNG NGHỆ AI VÀO GIẢNG DẠY VÀ HỌC TẬP VỚI TRỢ LÝ AI LỚP 4
 ## Smart Class 4C – AI Learning Companion
 **Khẩu hiệu: TỰ HỌC – SÁNG TẠO – VƯỢT GIỚI HẠN**
 

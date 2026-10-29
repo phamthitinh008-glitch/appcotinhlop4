@@ -33,7 +33,7 @@ app.get('/api/health', (req: Request, res: Response) => {
   res.json({
     status: 'ok',
     hasApiKey: !!apiKey,
-    app: 'Smart Class 4C - Trợ Lý AI Học Sinh Lớp 4',
+    app: 'Ứng Dụng Công Nghệ AI Vào Giảng Dạy Và Học Tập Với Trợ Lý AI Lớp 4 - Smart Class 4C',
     teacher: 'Phạm Thị Tính',
     school: 'Tiểu học Khoái Châu 1',
   });

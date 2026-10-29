@@ -255,10 +255,10 @@ export default function App() {
 
             <div>
               <div className="flex items-center gap-2">
-                <h1 className="font-black text-slate-900 text-base md:text-lg tracking-tight leading-tight">
-                  SMART CLASS 4C
+                <h1 className="font-black text-slate-900 text-xs sm:text-sm md:text-base tracking-tight leading-tight max-w-[200px] sm:max-w-md lg:max-w-xl truncate">
+                  ỨNG DỤNG CÔNG NGHỆ AI VÀO GIẢNG DẠY VÀ HỌC TẬP VỚI TRỢ LÝ AI LỚP 4
                 </h1>
-                <span className="text-[10px] px-2 py-0.5 rounded-full bg-blue-100 text-blue-700 font-extrabold uppercase border border-blue-200">
+                <span className="text-[10px] px-2 py-0.5 rounded-full bg-blue-100 text-blue-700 font-extrabold uppercase border border-blue-200 shrink-0">
                   Lớp 4C
                 </span>
               </div>
@@ -403,8 +403,8 @@ export default function App() {
                     TIỂU HỌC KHOÁI CHÂU 1 • LỚP 4C
                   </div>
 
-                  <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight drop-shadow-md">
-                    TRỢ LÝ AI CHO HỌC SINH LỚP 4
+                  <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight drop-shadow-md uppercase">
+                    ỨNG DỤNG CÔNG NGHỆ AI VÀO GIẢNG DẠY VÀ HỌC TẬP VỚI TRỢ LÝ AI LỚP 4
                   </h1>
 
                   <div className="inline-block px-5 py-2 rounded-2xl bg-amber-400 text-slate-900 font-black text-sm md:text-lg shadow-lg tracking-wide uppercase">
@@ -698,8 +698,8 @@ export default function App() {
       <footer className="mt-12 bg-white border-t border-slate-200 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div>
-            <p className="font-bold text-slate-800 text-sm">
-              TRỢ LÝ AI CHO HỌC SINH LỚP 4 (Smart Class 4C – AI Learning Companion)
+            <p className="font-bold text-slate-800 text-sm uppercase">
+              ỨNG DỤNG CÔNG NGHỆ AI VÀO GIẢNG DẠY VÀ HỌC TẬP VỚI TRỢ LÝ AI LỚP 4
             </p>
             <p className="mt-0.5">
               Khẩu hiệu: <strong>TỰ HỌC – SÁNG TẠO – VƯỢT GIỚI HẠN</strong> • Trường Tiểu học Khoái Châu 1
