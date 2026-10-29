@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý AI Cho Học Sinh Lớp 4 - Smart Class 4C",
+  "description": "Hệ thống Trợ lý AI học tập thông minh cho học sinh Lớp 4C, Trường Tiểu học Khoái Châu 1. Khẩu hiệu: Tự học – Sáng tạo – Vượt giới hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
